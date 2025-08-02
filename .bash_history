@@ -391,3 +391,7 @@ git branch -M main
 git push -u origin main
 git config user.name "Ekkavit"
 git config user.email "ekkavit9@hotmail.com"
+git add .
+git commit -m "Initial deploy-ready commit"
+git push origin main
+Username for 'https://github.com': ekkavit9@hotmail.com
